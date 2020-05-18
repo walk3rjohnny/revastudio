@@ -9,7 +9,7 @@ Our coloring game isn’t only a great way to forget about all the worries and t
 
 ## CANDY BALL STACK BREAK
 
-![Image](https://i.imgur.com/QxjqsEt.jpg)
+![Image](https://i.imgur.com/lKavGKr.jpg)
 
 A game that will test you agility, quick reflexes and strategic vision! If the answer is yes, then you should definitely try Candy ball — an amazing 3D game that will bring you tons of fun but will require concentration and creative thinking in order for you to win big.
 

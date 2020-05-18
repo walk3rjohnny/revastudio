@@ -2,6 +2,7 @@
 
 ## COLOR MAGIC
 ![Image](https://i.imgur.com/V6lsH14.jpg)
+
 Color Magic is an amazing anti stress coloring book, a perfect game for the whole family!
 
 Our coloring game isn’t only a great way to forget about all the worries and troubles and spend some time relaxing. It’s also a perfect tool for everyone who wants to unlock their creativity, develop better color perception, learn how to create new interesting color combinations, and believe in their inner creative powers.
@@ -9,6 +10,7 @@ Our coloring game isn’t only a great way to forget about all the worries and t
 ## CANDY BALL STACK BREAK
 
 ![Image](https://i.imgur.com/QxjqsEt.jpg)
+
 A game that will test you agility, quick reflexes and strategic vision! If the answer is yes, then you should definitely try Candy ball — an amazing 3D game that will bring you tons of fun but will require concentration and creative thinking in order for you to win big.
 
 The rules are super simple!

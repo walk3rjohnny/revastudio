@@ -1,7 +1,7 @@
 ## OUR GAMES
 
 ## COLOR MAGIC
-[Image](https://i.imgur.com/V6lsH14.jpg)
+![Image](https://i.imgur.com/V6lsH14.jpg)
 
 
 You can use the [editor on GitHub](https://github.com/walk3rjohnny/revastudio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

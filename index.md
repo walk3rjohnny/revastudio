@@ -1,6 +1,6 @@
 ## OUR GAMES
 
-## COLOR MAGIC
+# COLOR MAGIC
 ![Image](https://i.imgur.com/V6lsH14.jpg)
 
 
